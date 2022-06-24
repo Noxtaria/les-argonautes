@@ -2,8 +2,9 @@ const Footer = () => {
     return (
         <div>
             <footer>
-                <div className="footer-container">
-                    <p>Projet réalisé par Kévin BUANNEC - 2022</p>                </div>
+                <div>
+                    <p>Réalisé par Jason en Anthestérion de l'an 515 avant JC</p>
+                </div>
             </footer>
         </div>
     )
